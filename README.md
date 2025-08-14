@@ -1,2 +1,1 @@
-# Geotr-picos
-Repositório de arquivos da Geotrópicos
+Estudo realizado com Impact toolbox EU NDVI sentinel-2
